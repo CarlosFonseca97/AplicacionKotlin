@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "316957677842",
+    "firebase_url": "https://alarmacompresores-default-rtdb.firebaseio.com",
+    "project_id": "alarmacompresores",
+    "storage_bucket": "alarmacompresores.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316957677842:android:c0c8c546facd37dd417bcb",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316957677842-vbh3qmfqenirm794b3nnh0ellfufupv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARHQw0Av5o7sKL60mjqvuFGC-yLMDk_8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316957677842-vbh3qmfqenirm794b3nnh0ellfufupv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
